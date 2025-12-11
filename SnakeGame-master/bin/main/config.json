@@ -1,0 +1,10 @@
+{
+  "gridSize": 20,
+  "screenWidth": 800,
+  "screenHeight": 600,
+  "initialSpeed": 150,
+  "backgroundColor": "#000000",
+  "snakeColor": "#00FF00",
+  "foodColor": "#FF0000",
+  "gridColor": "#282828"
+}

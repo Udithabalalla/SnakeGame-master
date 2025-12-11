@@ -1,0 +1,27 @@
+# Firebase credentials - NEVER COMMIT THIS!
+serviceAccountKey.json
+
+# Gradle
+.gradle/
+build/
+out/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# SQLite (local database)
+*.db
+*.db-journal
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+hs_err_pid*
